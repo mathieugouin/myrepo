@@ -6,6 +6,6 @@ typedef struct
     int a;
     float x;
     double y;
-} sCommonData_t;
+} commonData_t;
 
 #endif
