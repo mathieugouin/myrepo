@@ -1,1 +1,1 @@
-static int asset1 = 0; // test
+static int asset1 = 1; // test
