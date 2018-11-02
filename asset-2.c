@@ -1,1 +1,1 @@
-static int asset2 = 0;
+static int asset2 = 2;
