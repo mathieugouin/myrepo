@@ -9,6 +9,8 @@ int main(void)
   d.x = 1.2f;
   d.y = 3.4;
 
+  (void)d;
+
   printf("Hello from GIT!\n");
   printf("Hello from CMC!\n");
 
