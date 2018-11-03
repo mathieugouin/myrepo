@@ -5,5 +5,5 @@ static int i2 = 2;
 void integration(void)
 {
   int i = i1 + i2;
-  printf("Hello from integration()\n");
+  printf("Hello from integration() %d\n", i);
 }
