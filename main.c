@@ -5,6 +5,7 @@
 int main(void)
 {
   commonData_t d;
+  d.a = 1;
 
   printf("Hello from GIT!\n");
   printf("Hello from CMC!\n");
