@@ -3,4 +3,5 @@ Hello 2
 TEST PULL REQUEST.
 Conflict 1
 Conflict 2
+master edit
 
